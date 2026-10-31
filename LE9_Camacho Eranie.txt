@@ -1,0 +1,15 @@
+Student 1
+Name: Trixie Paclar
+Age: 19
+Course: TCM
+-----------------
+Student 2
+Name: Era Camz
+Age: 18
+Course: BSIT
+-----------------
+Student 3
+Name: Jerald Cabalida
+Age: 20
+Course: Electronics Engineering
+-----------------
